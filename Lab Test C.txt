@@ -1,0 +1,32 @@
+1. Lab Quiz 20 MCQ
+       20 MCQ 
+       No Negative
+       Theory comfun
+       computer basics(i/o, memory basics, software)
+       pseudocode, algorithm , flowchart 
+2. Lab Test 50 
+       8 problems
+       5 problems
+       2 Batch + 6 C programs
+       If/Else If/ Switch/Loop
+       Batch already demonstrated
+       2 loop  ........ 4 switch/ifelse/if  
+         50+20+(10+20)
+
+
+
+     start; condition; inc/dec
+for(intialization;condition;inc/dec)
+
+1 odd
+2 even
+3 odd
+4 even
+.........
+101 odd
+
+
+
+
+
+
