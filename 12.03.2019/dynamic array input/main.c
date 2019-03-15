@@ -11,7 +11,7 @@ int main()
     printf("Enter bangla marks of %d students",n);
     for(i=0;i<n;i++)
     {
-        scanf("%d",bng_mrks[i]);
+        scanf("%d",&bng_mrks[i]);
     }
     return 0;
 }
