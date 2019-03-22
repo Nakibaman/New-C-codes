@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553228773 source:c:\users\walton\documents\github\new-c-codes\22.03.2019\array_advanced\main.c
+	<stdio.h>
+	<stdlib.h>
+
