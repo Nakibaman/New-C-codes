@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553233465 source:c:\users\walton\documents\github\new-c-codes\22.03.2019\2d_array_runtime_init\main.c
+	<stdio.h>
+	<stdlib.h>
+
