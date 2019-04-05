@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554441038 source:c:\users\walton\documents\github\new-c-codes\05.04.2019\leap_year\main.c
+	<stdio.h>
+	<stdlib.h>
+
