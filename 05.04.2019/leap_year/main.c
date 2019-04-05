@@ -10,8 +10,10 @@ int main()
     {
         if(year%100==0 && year%400==0)
             printf("Leap year");
-        else
+        else if(year%100==0 && year%400!=0)
             printf("Not leap year");
+        else
+            printf("Leap year");
     }
     else
         printf("Not leap year");
