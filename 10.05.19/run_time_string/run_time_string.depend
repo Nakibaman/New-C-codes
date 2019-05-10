@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557464618 source:c:\c codes\10.05.19\run_time_string\main.c
+	<stdio.h>
+	<stdlib.h>
+
