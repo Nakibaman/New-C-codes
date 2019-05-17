@@ -1,0 +1,17 @@
+
+                    Lab MArk Distribution
+
+             Final Lab Test 30 Marks
+             Final Lab Quiz 20 Marks
+             Atndnc         10 Marks
+             Regular assesment  40 Marks  
+             
+             Final Lab Test 
+              
+             Loop (Nested Loop)   2
+             Array (1 dim array)  1
+             String               2
+             2d Array             2
+             Function             1/2   =  9/8    (5)
+             
+             20 mcq
