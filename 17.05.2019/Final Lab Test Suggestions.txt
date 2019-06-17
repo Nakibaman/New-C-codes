@@ -10,8 +10,47 @@
               
              Loop (Nested Loop)   2
              Array (1 dim array)  1
-             String               2
+             String               2   strlen,strcmp,strcat,strcpy
              2d Array             2
              Function             1/2   =  9/8    (5)
              
              20 mcq
+
+
+
+
+
+              int mark[3]={23,56,89};
+               
+
+           mark[0]   23
+           mark[1]   56
+           mark[2]   89
+
+               int marks[3][3]       int/char/float array-name [R][C]
+                             0    1    2
+            0   1           23	 34       56
+                        [0][0]  [0][1] [0][2]
+            1   2           34   45       67
+                        [1][0]  [1][1] [1][2]
+
+            2   3           90   34       87
+                        [2][0]  [2][1]  [2][2]
+
+
+      int  marks[3][3]={{23,34,56},{34,45,67},{90,34,87}};
+
+             23   34  56
+             34   45  67
+             90   34  87
+
+
+
+
+
+
+
+
+
+
+
